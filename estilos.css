@@ -1,0 +1,46 @@
+body
+{
+    background-color: coral; 
+}
+
+h1
+{
+    text-align: center;
+    color: darkgreen;
+    size: 20;
+}
+
+h2
+{
+    text-align: center;
+    color: red;
+    size: 15
+}
+
+h3
+{
+text-align: center;
+color: blue;
+size: 15;
+}
+
+h4
+{
+    text-align: center;
+    color: black;
+    size: 10;
+}
+
+h5
+{
+    text-align: center;
+    color: chocolate;
+    size: 20;
+}
+
+h6
+{
+    text-align: center
+    color red;
+    size: 20;
+}
